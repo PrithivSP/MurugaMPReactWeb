@@ -1,0 +1,62 @@
+/* .Banner {
+    height: 100vh;
+} */
+.banner-left-sec, .banner-right-sec {
+    height: 100vh;
+}
+
+/*--------- banner-left-sec ----------*/
+.banner-heading {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.banner-heading h1 {
+    color: black;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.banner-heading h1 span {
+    color: rgb(35,197,215);
+}
+
+.banner-heading .banner-para {
+    font-size: 20px;
+}
+
+.banner-heading .banner-btn  {
+    width: 9em;
+    height: 2.5em;
+    padding: 0;
+    background-color: rgb(35,197,215);
+    border: 2px solid rgb(35,197,215);
+    border-radius: 0.5em;
+    color: #fff;
+}
+
+.banner-heading .banner-btn:hover {
+    background-color: #fff;
+    color: rgb(35,197,215);
+}
+
+.banner-heading .banner-btn a {
+    color: inherit;
+    font-weight: 600;
+}
+
+/*--------- banner-right-sec ----------*/
+.banner-right-sec {
+    background-color: rgb(35,197,215);
+    /* background-image: url('../../img/MurugaMPImg.png'); */
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.banner-right-sec img {
+    bottom: 0;
+    height: 92%;
+}
