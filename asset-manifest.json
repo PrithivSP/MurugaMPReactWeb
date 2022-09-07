@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MurugaMPReactWeb/static/css/main.a4ca115e.css",
+    "main.js": "/MurugaMPReactWeb/static/js/main.b71600f7.js",
+    "static/js/787.96ceb0af.chunk.js": "/MurugaMPReactWeb/static/js/787.96ceb0af.chunk.js",
+    "index.html": "/MurugaMPReactWeb/index.html",
+    "main.a4ca115e.css.map": "/MurugaMPReactWeb/static/css/main.a4ca115e.css.map",
+    "main.b71600f7.js.map": "/MurugaMPReactWeb/static/js/main.b71600f7.js.map",
+    "787.96ceb0af.chunk.js.map": "/MurugaMPReactWeb/static/js/787.96ceb0af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4ca115e.css",
+    "static/js/main.b71600f7.js"
+  ]
+}
